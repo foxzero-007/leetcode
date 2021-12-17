@@ -59,15 +59,19 @@
  * @return {number}
  */
 var removeDuplicates = function(nums) {
-    var map=new Map()
-    for(let i=0;i<nums.length;i++){
-        if(!map.get(nums[i])){
-            map.set(nums[i],1)
-            continue
-        }
-        nums.splice(i,1)
-        i--
+    const n = nums.length;
+    if(n===0){
+        return 0
     }
-    return nums.length
+    let fast=1,slow=0
+    while(fast<n){
+        if(nums[fast]!==nums[slow]){
+            slow++                 //易读
+            nums[slow]=nums[fast] //基于leetcode官方示例修改
+        }
+        fast++
+    }
+    slow+=1 //此处补个1,数组长度
+    return slow   //此方法取巧于题目规则：超过范围的数组不读取
 };
 //leetcode submit region end(Prohibit modification and deletion)
