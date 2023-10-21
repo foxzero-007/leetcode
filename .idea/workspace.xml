@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b4e200-6c61-48fb-98f0-fbcfd944c7b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/[11]盛最多水的容器.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[13]罗马数字转整数.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[14]最长公共前缀.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[1]两数之和.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[20]有效的括号.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/[2]两数相加.js" beforeDir="false" />
+    <list default="true" id="88b4e200-6c61-48fb-98f0-fbcfd944c7b5" name="Changes" comment="[100] update">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="22M0be5VRx8E6TjMmWTSdGfAhau" />
   <component name="ProjectViewState">
@@ -35,7 +34,18 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="leetcode.id" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="[100]相同的树.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/editor/cn/[100]相同的树.js" working-dir="$PROJECT_DIR$/editor/cn">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.[100]相同的树.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -48,13 +58,81 @@
       <workItem from="1639632226435" duration="49000" />
       <workItem from="1639632529791" duration="514000" />
       <workItem from="1639633786423" duration="27000" />
+      <workItem from="1648623905352" duration="2175000" />
+      <workItem from="1648714336886" duration="2166000" />
+      <workItem from="1648797052694" duration="2851000" />
+      <workItem from="1648886666110" duration="2053000" />
+      <workItem from="1649753922251" duration="2729000" />
+      <workItem from="1649756758502" duration="650000" />
+      <workItem from="1649840370672" duration="2112000" />
     </task>
+    <task id="LOCAL-00001" summary="[83] commit">
+      <created>1648625495826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648625495826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[88] commit">
+      <created>1648715457845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648715457845</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[88] delete">
+      <created>1648715700164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648715700164</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[88] update">
+      <created>1648799846941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648799846941</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[94] update">
+      <created>1648887662195</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648887662196</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[100] update">
+      <created>1649756610522</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649756610522</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[83] commit" />
+    <MESSAGE value="[88] commit" />
+    <MESSAGE value="[88] delete" />
+    <MESSAGE value="[88] update" />
+    <MESSAGE value="[94] update" />
+    <MESSAGE value="[100] update" />
+    <option name="LAST_COMMIT_MESSAGE" value="[100] update" />
   </component>
 </project>
